@@ -30,7 +30,7 @@ ________________________________________________________________________________
 ## Relevant
 explotacion: smb \
 revershell aspx \
-setimpersonateprivilege \
+setimpersonateprivilege 
 __________________________________________________________________________________
 
 ## Steel_mountain
