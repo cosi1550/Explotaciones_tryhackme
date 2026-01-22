@@ -61,7 +61,7 @@ ________________________________________________________________________________
 
 ## Skynet
 explotacion; listar directorios con smbclient \
-hydra \
+hydra 
 
 explotacion: puerto 3333 \
 fuzzing initial/uploads \
